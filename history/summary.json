@@ -4,19 +4,19 @@
     "url": "https://up.nest.gq",
     "icon": "https://icons.duckduckgo.com/ip3/up.nest.gq.ico",
     "slug": "uptime-kuma",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 747,
-    "timeDay": 747,
-    "timeWeek": 747,
-    "timeMonth": 747,
-    "timeYear": 747,
+    "status": "up",
+    "uptime": "71.50%",
+    "uptimeDay": "71.50%",
+    "uptimeWeek": "71.50%",
+    "uptimeMonth": "71.50%",
+    "uptimeYear": "71.50%",
+    "time": 745,
+    "timeDay": 745,
+    "timeWeek": 745,
+    "timeMonth": 745,
+    "timeYear": 745,
     "dailyMinutesDown": {
-      "2023-03-10": 0
+      "2023-03-10": 32
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/traefik.nest.gq.ico",
     "slug": "traefik",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
-    "time": 617,
-    "timeDay": 617,
-    "timeWeek": 617,
-    "timeMonth": 617,
-    "timeYear": 617,
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 629,
+    "timeDay": 629,
+    "timeWeek": 629,
+    "timeMonth": 629,
+    "timeYear": 629,
     "dailyMinutesDown": {
-      "2023-03-10": 24
+      "2023-03-10": 56
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://portainer.nest.gq",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.nest.gq.ico",
     "slug": "portainer",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 1066,
-    "timeDay": 1066,
-    "timeWeek": 1066,
-    "timeMonth": 1066,
-    "timeYear": 1066,
+    "status": "up",
+    "uptime": "42.87%",
+    "uptimeDay": "42.87%",
+    "uptimeWeek": "42.87%",
+    "uptimeMonth": "42.87%",
+    "uptimeYear": "42.87%",
+    "time": 810,
+    "timeDay": 810,
+    "timeWeek": 810,
+    "timeMonth": 810,
+    "timeYear": 810,
     "dailyMinutesDown": {
-      "2023-03-10": 0
+      "2023-03-10": 32
     }
   }
 ]
