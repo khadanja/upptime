@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 81,
-    "timeDay": 81,
-    "timeWeek": 81,
-    "timeMonth": 81,
-    "timeYear": 81,
+    "time": 105,
+    "timeDay": 105,
+    "timeWeek": 105,
+    "timeMonth": 105,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 303,
-    "timeWeek": 303,
-    "timeMonth": 303,
-    "timeYear": 303,
+    "time": 276,
+    "timeDay": 276,
+    "timeWeek": 276,
+    "timeMonth": 276,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/p.orionstark.tk.ico",
     "slug": "portainer",
     "status": "up",
-    "uptime": "49.09%",
-    "uptimeDay": "49.09%",
-    "uptimeWeek": "49.09%",
-    "uptimeMonth": "49.09%",
-    "uptimeYear": "49.09%",
-    "time": 527,
-    "timeDay": 527,
-    "timeWeek": 527,
-    "timeMonth": 527,
-    "timeYear": 527,
+    "uptime": "60.55%",
+    "uptimeDay": "60.55%",
+    "uptimeWeek": "60.55%",
+    "uptimeMonth": "60.55%",
+    "uptimeYear": "60.55%",
+    "time": 540,
+    "timeDay": 540,
+    "timeWeek": 540,
+    "timeMonth": 540,
+    "timeYear": 540,
     "dailyMinutesDown": {
-      "2023-09-24": 403
+      "2023-09-24": 394
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/orionstark.tk.ico",
     "slug": "omv",
     "status": "up",
-    "uptime": "49.10%",
-    "uptimeDay": "49.10%",
-    "uptimeWeek": "49.10%",
-    "uptimeMonth": "49.10%",
-    "uptimeYear": "49.10%",
-    "time": 546,
-    "timeDay": 546,
-    "timeWeek": 546,
-    "timeMonth": 546,
-    "timeYear": 546,
+    "uptime": "60.56%",
+    "uptimeDay": "60.56%",
+    "uptimeWeek": "60.56%",
+    "uptimeMonth": "60.56%",
+    "uptimeYear": "60.56%",
+    "time": 552,
+    "timeDay": 552,
+    "timeWeek": 552,
+    "timeMonth": 552,
+    "timeYear": 552,
     "dailyMinutesDown": {
-      "2023-09-24": 402
+      "2023-09-24": 393
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/au.orionstark.tk.ico",
     "slug": "authelia",
     "status": "up",
-    "uptime": "49.09%",
-    "uptimeDay": "49.09%",
-    "uptimeWeek": "49.09%",
-    "uptimeMonth": "49.09%",
-    "uptimeYear": "49.09%",
-    "time": 504,
-    "timeDay": 504,
-    "timeWeek": 504,
-    "timeMonth": 504,
-    "timeYear": 504,
+    "uptime": "60.55%",
+    "uptimeDay": "60.55%",
+    "uptimeWeek": "60.55%",
+    "uptimeMonth": "60.55%",
+    "uptimeYear": "60.55%",
+    "time": 510,
+    "timeDay": 510,
+    "timeWeek": 510,
+    "timeMonth": 510,
+    "timeYear": 510,
     "dailyMinutesDown": {
-      "2023-09-24": 402
+      "2023-09-24": 393
     }
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sf.orionstark.tk.ico",
     "slug": "sea-file",
     "status": "up",
-    "uptime": "49.08%",
-    "uptimeDay": "49.08%",
-    "uptimeWeek": "49.08%",
-    "uptimeMonth": "49.08%",
-    "uptimeYear": "49.08%",
-    "time": 611,
-    "timeDay": 611,
-    "timeWeek": 611,
-    "timeMonth": 611,
-    "timeYear": 611,
+    "uptime": "60.55%",
+    "uptimeDay": "60.55%",
+    "uptimeWeek": "60.55%",
+    "uptimeMonth": "60.55%",
+    "uptimeYear": "60.55%",
+    "time": 630,
+    "timeDay": 630,
+    "timeWeek": 630,
+    "timeMonth": 630,
+    "timeYear": 630,
     "dailyMinutesDown": {
-      "2023-09-24": 402
+      "2023-09-24": 393
     }
   }
 ]
