@@ -13,6 +13,8 @@ sites:
     url: https://au.orionstark.tk  
   - name: SeaFile
     url: https://sf.orionstark.tk  
+  - name: W4L Dev
+    url: https://dev.greynoise.xyz  
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
