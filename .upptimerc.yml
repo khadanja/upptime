@@ -12,9 +12,9 @@ sites:
   - name: Authelia
     url: https://au.orionstark.tk  
   - name: SeaFile
-    url: https://sf.orionstark.tk  
-  - name: W4L Dev
-    url: https://dev.greynoise.xyz  
+    url: https://sf.orionstark.tk   
+  - name: Secret Site
+    url: $SECRET_SITE  
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
