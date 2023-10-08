@@ -7,6 +7,14 @@ sites:
     url: https://en.wikipedia.org
   - name: W4L
     url: $W4L  
+  - name: AU
+    url: $AU 
+  - name: P
+    url: $P
+  - name: SF
+    url: $SF 
+  - name: V
+    url: $V 
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
