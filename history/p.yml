@@ -1,7 +1,7 @@
 url: $P
-status: down
-code: 530
-responseTime: 3091
-lastUpdated: 2023-10-10T21:06:44.038Z
+status: up
+code: 200
+responseTime: 1772
+lastUpdated: 2023-10-10T21:18:56.393Z
 startTime: 2023-10-08T22:57:19.844Z
 generator: Upptime <https://github.com/upptime/upptime>
