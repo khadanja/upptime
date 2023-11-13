@@ -1,7 +1,7 @@
 url: $SF
-status: down
-code: 530
-responseTime: 3096
-lastUpdated: 2023-11-13T04:56:42.088Z
+status: up
+code: 200
+responseTime: 4840
+lastUpdated: 2023-11-13T05:27:08.297Z
 startTime: 2023-10-08T22:57:22.338Z
 generator: Upptime <https://github.com/upptime/upptime>
