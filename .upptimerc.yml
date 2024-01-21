@@ -9,8 +9,8 @@ sites:
     url: $AU 
   - name: P
     url: $P
-  - name: SF
-    url: $SF 
+  - name: NC
+    url: $NC 
   - name: V
     url: $V 
     
