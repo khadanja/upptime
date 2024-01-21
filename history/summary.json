@@ -87,19 +87,19 @@
     "url": "$NC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nc",
-    "status": "down",
-    "uptime": "97.32%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "97.32%",
-    "uptimeYear": "97.32%",
-    "time": 2785,
-    "timeDay": 2785,
-    "timeWeek": 2785,
-    "timeMonth": 2785,
-    "timeYear": 2785,
+    "status": "up",
+    "uptime": "46.67%",
+    "uptimeDay": "46.67%",
+    "uptimeWeek": "46.67%",
+    "uptimeMonth": "46.67%",
+    "uptimeYear": "46.67%",
+    "time": 3403,
+    "timeDay": 3403,
+    "timeWeek": 3403,
+    "timeMonth": 3403,
+    "timeYear": 3403,
     "dailyMinutesDown": {
-      "2024-01-21": 0
+      "2024-01-21": 10
     }
   },
   {
