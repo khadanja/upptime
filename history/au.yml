@@ -1,7 +1,7 @@
 url: $AU
-status: up
-code: 200
-responseTime: 718
-lastUpdated: 2024-01-30T07:24:36.132Z
+status: down
+code: 530
+responseTime: 3375
+lastUpdated: 2024-01-30T08:09:40.129Z
 startTime: 2023-10-08T22:57:17.445Z
 generator: Upptime <https://github.com/upptime/upptime>
