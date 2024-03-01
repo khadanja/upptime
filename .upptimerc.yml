@@ -7,8 +7,8 @@ sites:
     url: https://en.wikipedia.org 
   - name: AU
     url: $AU 
-  - name: NC
-    url: $NC 
+  # - name: NC
+  #   url: $NC 
   - name: V
     url: $V 
     
