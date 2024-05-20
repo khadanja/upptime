@@ -150,17 +150,17 @@
     "url": "$V",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "v",
-    "status": "up",
+    "status": "down",
     "uptime": "79.77%",
-    "uptimeDay": "79.58%",
+    "uptimeDay": "79.57%",
     "uptimeWeek": "84.15%",
     "uptimeMonth": "94.92%",
     "uptimeYear": "79.77%",
-    "time": 1805,
-    "timeDay": 2569,
-    "timeWeek": 2767,
-    "timeMonth": 2241,
-    "timeYear": 1805,
+    "time": 1808,
+    "timeDay": 2618,
+    "timeWeek": 2778,
+    "timeMonth": 2251,
+    "timeYear": 1808,
     "dailyMinutesDown": {
       "2024-05-20": 233,
       "2024-05-19": 161,
@@ -255,8 +255,7 @@
       "2023-11-19": 18,
       "2023-11-18": 49,
       "2023-11-13": 20,
-      "2023-11-12": 28,
-      "2023-11-11": 25
+      "2023-11-12": 28
     }
   }
 ]
