@@ -24,19 +24,19 @@
     "url": "$AU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "au",
-    "status": "up",
-    "uptime": "77.83%",
-    "uptimeDay": "81.38%",
-    "uptimeWeek": "83.93%",
+    "status": "down",
+    "uptime": "77.86%",
+    "uptimeDay": "81.32%",
+    "uptimeWeek": "83.92%",
     "uptimeMonth": "94.90%",
-    "uptimeYear": "77.83%",
+    "uptimeYear": "77.86%",
     "time": 1825,
     "timeDay": 2255,
-    "timeWeek": 2199,
+    "timeWeek": 2206,
     "timeMonth": 2222,
     "timeYear": 1825,
     "dailyMinutesDown": {
-      "2024-05-20": 206,
+      "2024-05-20": 207,
       "2024-05-19": 162,
       "2024-05-16": 19,
       "2024-05-15": 18,
@@ -142,7 +142,7 @@
       "2023-10-17": 1440,
       "2023-10-16": 800,
       "2023-10-12": 18,
-      "2023-10-11": 113
+      "2023-10-11": 93
     }
   },
   {
@@ -151,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "v",
     "status": "up",
-    "uptime": "79.81%",
-    "uptimeDay": "77.73%",
-    "uptimeWeek": "83.88%",
-    "uptimeMonth": "94.86%",
-    "uptimeYear": "79.81%",
+    "uptime": "79.82%",
+    "uptimeDay": "78.38%",
+    "uptimeWeek": "83.98%",
+    "uptimeMonth": "94.88%",
+    "uptimeYear": "79.82%",
     "time": 1811,
     "timeDay": 2505,
     "timeWeek": 2709,
     "timeMonth": 2250,
     "timeYear": 1811,
     "dailyMinutesDown": {
-      "2024-05-20": 259,
+      "2024-05-20": 250,
       "2024-05-19": 161,
       "2024-05-14": 1163,
       "2024-05-13": 40,
@@ -254,7 +254,8 @@
       "2023-11-23": 18,
       "2023-11-19": 18,
       "2023-11-18": 49,
-      "2023-11-13": 20
+      "2023-11-13": 20,
+      "2023-11-12": 28
     }
   }
 ]
