@@ -1,7 +1,7 @@
 url: $V
-status: down
-code: 530
-responseTime: 3153
-lastUpdated: 2024-06-03T04:33:19.847Z
+status: up
+code: 200
+responseTime: 3580
+lastUpdated: 2024-06-03T04:42:11.291Z
 startTime: 2023-10-08T22:57:24.753Z
 generator: Upptime <https://github.com/upptime/upptime>
