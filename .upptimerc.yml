@@ -11,12 +11,12 @@ sites:
   #   url: $NC 
   # - name: V
   #   url: $V 
-  - name: e5
-    url: $E5
+  - name: e514
+    url: $E514
   # - name: P
   #   url: $P
   - name: Jeb
-    url: $Jeb
+    url: $JEB
   - name: HA
     url: $HA
     
