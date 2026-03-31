@@ -15,6 +15,10 @@ sites:
     url: $E5
   - name: P
     url: $P
+  - name: Jeb
+    url: $Jeb
+  - name: HA
+    url: $HA
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
