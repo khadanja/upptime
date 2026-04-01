@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 755,
-    "timeDay": 755,
-    "timeWeek": 755,
-    "timeMonth": 755,
-    "timeYear": 755,
+    "time": 768,
+    "timeDay": 768,
+    "timeWeek": 768,
+    "timeMonth": 768,
+    "timeYear": 768,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jeb",
     "status": "up",
-    "uptime": "0.49%",
-    "uptimeDay": "0.49%",
-    "uptimeWeek": "0.49%",
-    "uptimeMonth": "0.49%",
-    "uptimeYear": "0.49%",
-    "time": 824,
-    "timeDay": 824,
-    "timeWeek": 824,
-    "timeMonth": 824,
-    "timeYear": 824,
-    "dailyMinutesDown": {
-      "2026-03-31": 1115
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 820,
+    "timeDay": 820,
+    "timeWeek": 820,
+    "timeMonth": 820,
+    "timeYear": 820,
+    "dailyMinutesDown": {}
   },
   {
     "name": "HA",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 886,
-    "timeDay": 886,
-    "timeWeek": 886,
-    "timeMonth": 886,
-    "timeYear": 886,
+    "time": 864,
+    "timeDay": 864,
+    "timeWeek": 864,
+    "timeMonth": 864,
+    "timeYear": 864,
     "dailyMinutesDown": {}
   }
 ]
