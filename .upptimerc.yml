@@ -19,6 +19,8 @@ sites:
     url: $JEB
   - name: HA
     url: $HA
+    expectedStatusCodes:
+      - 200
   - name: I
     url: $I  
     
