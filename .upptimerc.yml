@@ -23,6 +23,8 @@ sites:
       - 200
   - name: I
     url: $I  
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co  
     
     
 status-website:
