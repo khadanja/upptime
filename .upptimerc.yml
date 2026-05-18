@@ -19,6 +19,9 @@ sites:
     url: $JEB
   - name: HA
     url: $HA
+  - name: I
+    url: $I  
+    
     
 status-website:
   theme: dark
