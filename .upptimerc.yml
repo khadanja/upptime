@@ -29,6 +29,7 @@ sites:
     validateBody:
     - doesNotContain: "502 Bad Gateway"
     - doesNotContain: "error code: 502"  
+    - doesNotContain: "Unable to connect to Home Assistant"
   - name: I
     url: $I  
   - name: Test Broken Site
