@@ -24,10 +24,10 @@ sites:
     url: $JEB
   - name: HA
     url: $HA
-    expectedStatusCodes:
-      - 200
+    # expectedStatusCodes:
+    #   - 200
     # __dangerous__body_down: "Unable to connect to Home Assistant"  
-    __dangerous__body_down: "Bad gateway"  
+    __dangerous__body_down_if_text_missing: '"status":"UP"' 
   - name: I
     url: $I  
   - name: Test Broken Site
