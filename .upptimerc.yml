@@ -26,8 +26,8 @@ sites:
     url: $HA
     expectedStatusCodes:
       - 200
-    __dangerous__body_down: "Unable to connect to Home Assistant"  
-    __dangerous__body_down: "502 Bad Gateway"  
+    # __dangerous__body_down: "Unable to connect to Home Assistant"  
+    __dangerous__body_down: "Bad gateway"  
     validateBody:
     - doesNotContain: "502 Bad Gateway"
     - doesNotContain: "error code: 502"  
