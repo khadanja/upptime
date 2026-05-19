@@ -13,6 +13,11 @@ sites:
   #   url: $V 
   - name: e514
     url: $E514
+    expectedStatusCodes:
+    - 200
+    validateBody:
+    - doesNotContain: "502 Bad Gateway"
+    - doesNotContain: "error code: 502"
   # - name: P
   #   url: $P
   - name: Jeb
