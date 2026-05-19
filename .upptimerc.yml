@@ -26,6 +26,9 @@ sites:
     url: $HA
     expectedStatusCodes:
       - 200
+    validateBody:
+    - doesNotContain: "502 Bad Gateway"
+    - doesNotContain: "error code: 502"  
   - name: I
     url: $I  
   - name: Test Broken Site
