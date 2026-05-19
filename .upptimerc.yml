@@ -28,10 +28,6 @@ sites:
       - 200
     # __dangerous__body_down: "Unable to connect to Home Assistant"  
     __dangerous__body_down: "Bad gateway"  
-    validateBody:
-    - doesNotContain: "502 Bad Gateway"
-    - doesNotContain: "error code: 502"  
-    - doesNotContain: "Unable to connect to Home Assistant"
   - name: I
     url: $I  
   - name: Test Broken Site
