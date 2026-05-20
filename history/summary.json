@@ -173,7 +173,7 @@
     "slug": "i",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.98%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
@@ -183,7 +183,7 @@
     "timeMonth": 501,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2026-05-20": 0
+      "2026-05-20": 1
     }
   },
   {
