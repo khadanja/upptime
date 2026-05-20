@@ -30,6 +30,7 @@ sites:
     __dangerous__body_down_if_text_missing: '<title>Home Assistant</title>'
   - name: I
     url: $I  
+    __dangerous__body_down_if_text_missing: 'To use Immich, you must enable JavaScript'
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co  
     
