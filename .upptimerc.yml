@@ -13,6 +13,7 @@ sites:
   #   url: $V 
   - name: e514
     url: $E514
+    __dangerous__body_down_if_text_missing: '"totalRequests":'
     expectedStatusCodes:
     - 200
     validateBody:
@@ -22,6 +23,7 @@ sites:
   #   url: $P
   - name: Jeb
     url: $JEB
+    __dangerous__body_down_if_text_missing: 'mode-watcher-mode'
   - name: HA
     url: $HA
     # expectedStatusCodes:
