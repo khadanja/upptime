@@ -1,7 +1,7 @@
 url: $HA
-status: down
-code: 530
-responseTime: 59
-lastUpdated: 2026-08-26T23:46:40.802Z
+status: up
+code: 200
+responseTime: 825
+lastUpdated: 2026-08-27T04:26:41.064Z
 startTime: 2026-03-31T04:17:04.929Z
 generator: Upptime <https://github.com/upptime/upptime>
